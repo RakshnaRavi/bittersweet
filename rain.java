@@ -23,7 +23,6 @@ public class rain {
                 return sum;
             };
 
-
             int result = add.addNumber(start, end);
             System.out.println("The sum: " + result);
 		}
