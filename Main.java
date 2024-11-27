@@ -1,4 +1,4 @@
-
+//Shrimayi and Rakshna
 @FunctionalInterface
 interface Adder {
     int addNumber(int start, int end);
